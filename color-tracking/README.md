@@ -74,12 +74,5 @@ color-tracking/
 - `numpy`: 1.22.1
 - Other dependencies specified in `requirements.txt`
 
-### License:
-- Nischal Aremanda
-
-### Contributors:
-- Nischal Aremanda
-
-### Feedback:
-- For any issues or suggestions, please contact - https://github.com/nischalaremanda
----
+👤 Author Name: Neelam Likhitha
+   GitHub: https://github.com/neelamlikitha
